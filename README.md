@@ -54,7 +54,11 @@ cd path\to\extracted\platform-tools
 8. **On the top right, click the "Run on device" button.** You should see your watch listed as a target device. Select it and click "OK" to install the watch face on your watch.
 
 ## Credits
+bighead.0@gmail.com /  @ Ay, el mao#3513 on discord / @ "benancio_gomez" on discord
 
+- for their datamined assets project
+
+  
 
 
 
