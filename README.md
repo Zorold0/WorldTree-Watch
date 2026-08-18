@@ -1,4 +1,6 @@
 # WorldTree-Watch
+[Picture1](watch assets/tumbnails/tnDay.png)
+
 
 ## Loading the Project
 You will need [Watch Face Studio to load this project](https://developer.samsung.com/watch-face-studio/download.html).
