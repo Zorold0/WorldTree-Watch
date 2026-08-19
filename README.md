@@ -1,6 +1,26 @@
 # WorldTree-Watch
-[Picture1](watch-assets/tumbnails/tnDay.png)
 
+Xenoblade Chronicles 2 themed watch face with features like changing faces:
+
+
+Face between 9 AM to 5 PM
+<img src="watch-assets/thumbnails/tnDay.png" width="20%" />
+Face between 9 PM to 5 AM
+<img src="watch-assets/thumbnails/tnNight.png" width="20%" />
+
+
+Face between 5AM to 9 AM
+<img src="watch-assets/thumbnails/tnSunrise.png" width="20%" />
+Face between 5 PM to 9 PM
+<img src="watch-assets/thumbnails/tnDusk.png" width="20%" />
+
+A current weather indicator with the following icons:
+
+<img src="watch-assets/weather/weather_0.png" width="20%" />
+
+A battery gauge themed like the chain attack bar
+
+<img src="watch-assets/chain/xc2chainattackbar.png" width="20%" />
 
 ## Loading the Project
 You will need [Watch Face Studio to load this project](https://developer.samsung.com/watch-face-studio/download.html).
