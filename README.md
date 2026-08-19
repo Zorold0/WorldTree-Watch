@@ -83,6 +83,11 @@ bighead.0@gmail.com /  @ Ay, el mao#3513 on discord / @ "benancio_gomez" on disc
 
 - for their datamined assets project
 
+https://djmuffintops.com/ / https://github.com/DjMuffinTops
+
+- for their great guide on getting new Watch Face Studio stuff running on watches.
+
+
   
 
 
