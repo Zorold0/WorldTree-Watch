@@ -21,6 +21,7 @@ A current weather indicator with the following icons:
 A battery gauge themed like the chain attack bar
 
 <img src="watch-assets/chain/xc2chainattackbar.png" width="20%" />
+And a step counter above said chain attack bar
 
 ## Loading the Project
 You will need [Watch Face Studio to load this project](https://developer.samsung.com/watch-face-studio/download.html).
