@@ -1,5 +1,5 @@
 # WorldTree-Watch
-[Picture1](watch assets/tumbnails/tnDay.png)
+[Picture1](watch-assets/tumbnails/tnDay.png)
 
 
 ## Loading the Project
